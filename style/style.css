@@ -1,0 +1,27 @@
+body{background-color: #f3f4f5;
+
+}
+
+h1{
+    text-align: center;
+    font-family: Arial;
+    color: black;
+    font-size: 24px;
+}
+
+.encabezado{
+    text-align: center;
+    
+}
+.lista{
+    text-align: left;
+}
+
+.parrafo{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
+.lista x{
+    text-align: left;
+}
